@@ -1,5 +1,3 @@
-宝塔面板破解
-目前最新版7.4.5可用
-html文件替换路径：/www/server/panel/BTPanel/templates/default
-python文件替换路径：/www/server/panel/class
-重启宝塔
+# 食用方法
+1. 安装官方版宝塔；
+2. 执行破解脚本：`wget -O updatepro_7.sh https://bt.nan.ge/updatepro_7.sh && bash updatepro_7.sh`
